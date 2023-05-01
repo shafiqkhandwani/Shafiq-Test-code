@@ -1,1 +1,1 @@
-console.log("test js updating")
+console.log("test js updating for developer mode")
